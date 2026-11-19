@@ -1,8 +1,14 @@
 # Leonida Rarity Forecast
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/ALENSALIM/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/ALENSALIM/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecasts every Grand Theft Auto VI PS5 trophy's Exophase earn rate at the
-target time, as five quantiles per trophy, for the make.fun bounty
-`gta6-trophy-rarity-forecast-01`.
+target time, as five quantiles per trophy, for the [make.fun bounty
+`gta6-trophy-rarity-forecast-01`](https://make.fun/bounty/gta6-trophy-rarity-forecast-01).
+
+New to make.fun? Sign up with my referral link: https://make.fun/r/hdce547j
 
 ## How it works
 
